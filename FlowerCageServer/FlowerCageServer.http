@@ -1,0 +1,6 @@
+@FlowerCageServer_HostAddress = http://localhost:5101
+
+GET {{FlowerCageServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
