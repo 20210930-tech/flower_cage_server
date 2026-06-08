@@ -1,18 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\root\\Desktop\\FlowerCageServer\\",
+  "WorkspaceRootPath": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D04BF039-F6BB-41C6-B6F0-ADF81F2CAB3D}|FlowerCageServer\\FlowerCageServer.csproj|c:\\users\\root\\desktop\\flowercageserver\\flowercageserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04BF039-F6BB-41C6-B6F0-ADF81F2CAB3D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04BF039-F6BB-41C6-B6F0-ADF81F2CAB3D}|FlowerCageServer\\FlowerCageServer.csproj|c:\\users\\root\\desktop\\flowercageserver\\flowercageserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04BF039-F6BB-41C6-B6F0-ADF81F2CAB3D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\controllers\\camerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\controllers\\camerascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04BF039-F6BB-41C6-B6F0-ADF81F2CAB3D}|FlowerCageServer\\FlowerCageServer.csproj|c:\\users\\root\\desktop\\flowercageserver\\flowercageserver\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04BF039-F6BB-41C6-B6F0-ADF81F2CAB3D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\controllers\\controlcommandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\controllers\\controlcommandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\controllers\\cagedevicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\controllers\\cagedevicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\controllers\\gptanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\controllers\\gptanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\controllers\\plantprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\controllers\\plantprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\controllers\\sensorreadingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\controllers\\sensorreadingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\controllers\\systemeventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\controllers\\systemeventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|d:\\workspace\\information\\document\\study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\team project\\\uC878\uD504\\flower_cage_server\\flowercageserver\\common\\models\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D6102F-F747-6916-BF19-49A41813842D}|FlowerCageServer\\FlowerCageServer.csproj|solutionrelative:flowercageserver\\common\\models\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +54,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\root\\Desktop\\FlowerCageServer\\FlowerCageServer\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "FlowerCageServer\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\root\\Desktop\\FlowerCageServer\\FlowerCageServer\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "FlowerCageServer\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T07:08:34.57Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\appsettings.json",
+              "RelativeDocumentMoniker": "FlowerCageServer\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\appsettings.json",
+              "RelativeToolTip": "FlowerCageServer\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-07T17:25:50.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\root\\Desktop\\FlowerCageServer\\FlowerCageServer\\Program.cs",
-              "RelativeDocumentMoniker": "FlowerCageServer\\Program.cs",
-              "ToolTip": "C:\\Users\\root\\Desktop\\FlowerCageServer\\FlowerCageServer\\Program.cs",
-              "RelativeToolTip": "FlowerCageServer\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Title": "CamerasController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\CamerasController.cs",
+              "RelativeDocumentMoniker": "FlowerCageServer\\Controllers\\CamerasController.cs",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\CamerasController.cs",
+              "RelativeToolTip": "FlowerCageServer\\Controllers\\CamerasController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T07:08:28.208Z",
+              "WhenOpened": "2026-06-07T17:15:36.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\root\\Desktop\\FlowerCageServer\\FlowerCageServer\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "FlowerCageServer\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\root\\Desktop\\FlowerCageServer\\FlowerCageServer\\WeatherForecast.cs",
-              "RelativeToolTip": "FlowerCageServer\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Title": "ControlCommandsController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\ControlCommandsController.cs",
+              "RelativeDocumentMoniker": "FlowerCageServer\\Controllers\\ControlCommandsController.cs",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\ControlCommandsController.cs",
+              "RelativeToolTip": "FlowerCageServer\\Controllers\\ControlCommandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T07:08:25.779Z",
+              "WhenOpened": "2026-06-07T09:51:48.867Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CageDevicesController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\CageDevicesController.cs",
+              "RelativeDocumentMoniker": "FlowerCageServer\\Controllers\\CageDevicesController.cs",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\CageDevicesController.cs",
+              "RelativeToolTip": "FlowerCageServer\\Controllers\\CageDevicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:51:46.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GptAnalysisController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\GptAnalysisController.cs",
+              "RelativeDocumentMoniker": "FlowerCageServer\\Controllers\\GptAnalysisController.cs",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\GptAnalysisController.cs",
+              "RelativeToolTip": "FlowerCageServer\\Controllers\\GptAnalysisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:51:45.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "FlowerCageServer\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "FlowerCageServer\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:51:44.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlantProfilesController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\PlantProfilesController.cs",
+              "RelativeDocumentMoniker": "FlowerCageServer\\Controllers\\PlantProfilesController.cs",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\PlantProfilesController.cs",
+              "RelativeToolTip": "FlowerCageServer\\Controllers\\PlantProfilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:51:42.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorReadingsController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\SensorReadingsController.cs",
+              "RelativeDocumentMoniker": "FlowerCageServer\\Controllers\\SensorReadingsController.cs",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\SensorReadingsController.cs",
+              "RelativeToolTip": "FlowerCageServer\\Controllers\\SensorReadingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:51:41.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SystemEventsController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\SystemEventsController.cs",
+              "RelativeDocumentMoniker": "FlowerCageServer\\Controllers\\SystemEventsController.cs",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\SystemEventsController.cs",
+              "RelativeToolTip": "FlowerCageServer\\Controllers\\SystemEventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:51:39.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FlowerCageServer\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FlowerCageServer\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:51:37.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiErrorResponse.cs",
+              "DocumentMoniker": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Common\\Models\\ApiErrorResponse.cs",
+              "RelativeDocumentMoniker": "FlowerCageServer\\Common\\Models\\ApiErrorResponse.cs",
+              "ToolTip": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\FlowerCageServer\\Common\\Models\\ApiErrorResponse.cs",
+              "RelativeToolTip": "FlowerCageServer\\Common\\Models\\ApiErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:51:32.65Z"
             }
           ]
         }

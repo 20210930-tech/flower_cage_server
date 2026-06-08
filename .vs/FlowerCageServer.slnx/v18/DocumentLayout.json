@@ -1,23 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\root\\Desktop\\FlowerCageServer\\",
+  "WorkspaceRootPath": "D:\\Workspace\\Information\\Document\\Study\\2026-4-1\\\uC878\uC5C5\uD504\uB85C\uC81D\uD2B8(\uCEA1\uC2A4\uD1A4\uB514\uC790\uC778) (06)\\Team Project\\\uC878\uD504\\flower_cage_server\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
